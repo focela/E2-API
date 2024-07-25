@@ -1,3 +1,3 @@
-module github.com/focela/internal
+module github.com/focela/atrocitus
 
 go 1.22

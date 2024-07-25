@@ -1,14 +1,4 @@
-# internal ![GoDoc][doc-img]
+<hr>
 
-## Installation
+Released under the [MIT License](LICENSE).
 
-```bash
-go get -u github.com/focela/internal@latest
-```
-
--------------------------------------------------------------------------------
-
-Released under the [MIT License].
-
-[MIT License]: LICENSE
-[doc-img]: https://pkg.go.dev/badge/github.com/focela/internal
